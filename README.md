@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jishu Dey</h1>
-<h3 align="center">Master in Statistics</h3>
+<h3 align="center">M.sc in Statistics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jishupu05&label=Profile%20views&color=0e75b6&style=flat" alt="jishupu05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jishupu05" alt="jishupu05" /></a> </p>
 
-- 🔭 I’m currently working on [House Price Production](https://github.com/jishupu05/houseprice-prediction)
+- 🔭 I’m currently working on [House Price Prediction](https://github.com/jishupu05/houseprice-prediction)
 
 - 🌱 I’m currently learning **Python, SQL ,R**
 
